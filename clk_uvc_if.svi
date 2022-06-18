@@ -1,5 +1,3 @@
-interface clk_uvc_if(
-    logic clk
-);
-
+interface clk_uvc_if();
+    logic clk;
 endinterface
